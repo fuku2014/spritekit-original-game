@@ -6,3 +6,7 @@ Mqtt(sango) + NIFTY Cloud(mbaas) + SpriteKit(Swift)
 ```
 $ pod install
 ```
+
+## store
+
+https://itunes.apple.com/jp/app/arukisumaho-batoru/id1095247230?mt=8
